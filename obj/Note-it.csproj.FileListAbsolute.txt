@@ -1,0 +1,12 @@
+C:\Users\iamwa\source\repos\Note-it\Note-it\bin\Debug\Note-it.exe.config
+C:\Users\iamwa\source\repos\Note-it\Note-it\bin\Debug\Note-it.exe
+C:\Users\iamwa\source\repos\Note-it\Note-it\bin\Debug\Note-it.pdb
+C:\Users\iamwa\source\repos\Note-it\Note-it\obj\Debug\Note-it.csprojAssemblyReference.cache
+C:\Users\iamwa\source\repos\Note-it\Note-it\obj\Debug\Note_it.Form1.resources
+C:\Users\iamwa\source\repos\Note-it\Note-it\obj\Debug\Note_it.Properties.Resources.resources
+C:\Users\iamwa\source\repos\Note-it\Note-it\obj\Debug\Note-it.csproj.GenerateResource.cache
+C:\Users\iamwa\source\repos\Note-it\Note-it\obj\Debug\Note-it.csproj.CoreCompileInputs.cache
+C:\Users\iamwa\source\repos\Note-it\Note-it\obj\Debug\Note-it.exe
+C:\Users\iamwa\source\repos\Note-it\Note-it\obj\Debug\Note-it.pdb
+C:\Users\iamwa\source\repos\Note-it\Note-it\bin\Debug\Guna.UI2.dll
+C:\Users\iamwa\source\repos\Note-it\Note-it\obj\Debug\Note-it.csproj.CopyComplete
